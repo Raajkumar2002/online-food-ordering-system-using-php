@@ -1,0 +1,154 @@
+/* CSS Document */
+.menubg
+{
+background:#33FF99;
+height:40px;
+border-radius:15px;
+float:left;
+width:100%;
+}
+.menubg ul li
+{
+padding:0px 20px;
+list-style-type:none;
+float:left;
+}
+.menubg ul li a
+{
+color:#000066;
+text-decoration:none;
+font-weight:bold; 
+float:left;
+}
+.menubg ul li a:hover
+{
+color:#FB7D00
+}
+
+
+
+
+.catergoryhead
+{
+width:240px;
+background:#006699;
+float:left
+}
+.menutitle
+{
+background:url(../images/menuhead.png) no-repeat;
+box-shadow:10px;
+height:40px;
+}
+.menutitle h3
+{
+text-align:center;
+padding:5px 0;
+color:#FFFFFF;
+}
+.category
+{
+margin:5px 0 0 0;
+}
+.categorylist
+{
+list-style-type:none;
+}
+.categorylist li
+{
+padding:8px 20px;
+border-bottom:1px solid #003366;
+}
+.categorylist li a
+{
+text-decoration:none;
+color:#FF8000;
+font-weight:bold;
+}
+.categorylist li a:hover
+{
+color:#FFFFFF;	
+}
+.middle1
+{
+float:right;
+width:680px;
+color:#000000;
+padding:10px;
+}
+
+.username
+{
+text-align:right;
+padding:2px;
+}
+
+.username h4 a
+{
+text-decoration:none;
+}
+.username h4 a:hover
+{
+color:#000000;
+}
+
+.titlehead
+{
+color:#E87400;
+padding:0 0 3px 0;
+border-bottom:1px solid #000000;
+margin:0 0 5px 0;
+}
+
+.products
+{
+width:630px;
+margin:auto;
+padding:2px 0;
+
+}
+
+form p
+{
+padding:10px 30px;
+}
+form label
+{
+width:120px;
+float:left;
+color:#000000;
+font-weight:bold;
+}
+form select
+{
+padding:2px;
+width:188px;
+}
+form input,form textarea
+{
+padding:2px;
+width:180px;
+}
+form .submit
+{
+padding:2px;
+background:#000000;
+color:#FFFFFF;
+border-radius:5px;
+cursor:pointer;
+width:auto
+}
+
+.productadd table tr, td
+{
+padding:3px;
+}
+.productadd table tr th
+{
+background:#40C1FF
+}
+
+.productadd table tr td
+{
+background:#FFB062;
+}
